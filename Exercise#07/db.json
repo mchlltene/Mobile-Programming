@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 7,
+      "email": "Exhawahyne@yahxxx.com",
+      "firstName": "Michael",
+      "lastName": "Lawson"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "firstName": "Lindsay",
+      "lastName": "Ferguson"
+    },
+    {
+      "firstName": "Michell",
+      "lastName": "Gabriell",
+      "email": "Tene",
+      "id": 9
+    }
+  ]
+}
